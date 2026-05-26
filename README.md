@@ -20,6 +20,4 @@ Automated Reporting: Identifies the "best agent" (highest efficiency) and export
 2. Simulation: The engine calculates the optimal assignment based on the initial distance to the warehouse. It then updates the agent's position as they complete deliveries, accumulating the total distance traveled.
 3. Output: Results are saved to a `reports` folder, providing insights into individual agent performance and identifying the top-performing agent based on efficiency.
 
----
 
-*Would you like assistance in adding installation instructions or setup requirements to this README?*
